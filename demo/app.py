@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
 """
-@Author: xuhaoqing
 @Date: 2020-07-29 19:47:35
 @LastEditTime: 2020-07-30 14:53:14
 @LastEditors: Please set LastEditors

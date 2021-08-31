@@ -1,5 +1,4 @@
 """
-@Author: your name
 @Date: 2020-07-30 10:41:39
 @LastEditTime: 2020-07-30 14:53:00
 @LastEditors: Please set LastEditors
